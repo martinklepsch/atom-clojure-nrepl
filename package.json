@@ -8,7 +8,7 @@
     "atom-clojure-nrepl:evaluate-file",
     "atom-clojure-nrepl:evaluate-containing-expression"
   ],
-  "repository": "https://github.com/eyston/atom-clojure-nrepl",
+  "repository": "https://github.com/mklappstuhl/atom-clojure-nrepl",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
