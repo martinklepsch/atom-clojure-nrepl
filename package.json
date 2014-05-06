@@ -1,14 +1,14 @@
 {
   "name": "atom-clojure-nrepl",
   "main": "./lib/atom-clojure-nrepl",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Clojure nREPL integration for atom",
   "activationEvents": [
     "atom-clojure-nrepl:evaluate-last-expression",
     "atom-clojure-nrepl:evaluate-file",
     "atom-clojure-nrepl:evaluate-containing-expression"
   ],
-  "repository": "https://github.com/atom/atom-clojure-nrepl",
+  "repository": "https://github.com/eyston/atom-clojure-nrepl",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
